@@ -8,8 +8,8 @@
 set -e
 
 USER1=ubuntu
-CLIENT_ID="f3a741fc3c4fafa3eb27"
-CLIENT_SECRET="9a295c8379c274d1cb577853fe30fe2cd54c57fd"
+CLIENT_ID="gkavva16171815"
+CLIENT_SECRET="0fe2cd54c57fd"
 PROVIDER="github"
 REDIRECT_URL="http://$(curl http://checkip.amazonaws.com):8084/login"
 SPINNAKER_VERSION="1.28.1"
