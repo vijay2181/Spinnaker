@@ -1,7 +1,6 @@
 #!/bin/bash
 
 SPINNAKER_VERSION="1.28.1"
-MY_IP=`curl http://checkip.amazonaws.com`
 
 ############################################### DEPLOY SPINNAKER ##################################################################
 
